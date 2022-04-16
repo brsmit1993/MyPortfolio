@@ -62,12 +62,12 @@
 
     <div class="row justify-content-center">
         <div class="col-9 my-4 h1" style="color: #2D9CCA">
-            Home Made Arcade Machine
+            Java Swing RPG
         </div>
 
         <div class="col-12 mb-2">
             <div class="project-image-header">
-                <img class="project-image-header" src="Images/Projects/ArcadeMachine/header.png"/>
+                <img class="project-image-header" src="Images/Projects/JavaRPG/header.png"/>
             </div>
         </div>
 
@@ -91,7 +91,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image01.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image01.jpg" />
 
                             <div class="project-link">
                             
@@ -103,7 +103,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image02.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image02.jpg" />
 
                             <div class="project-link">
                             
@@ -115,7 +115,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image03.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image03.jpg" />
 
                             <div class="project-link">
                             
@@ -127,7 +127,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image04.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image04.jpg" />
 
                             <div class="project-link">
                             
@@ -139,7 +139,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image05.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image05.jpg" />
 
                             <div class="project-link">
                             
@@ -151,7 +151,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image06.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image06.jpg" />
 
                             <div class="project-link">
                             
@@ -163,7 +163,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image07.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image07.jpg" />
 
                             <div class="project-link">
                             
@@ -175,7 +175,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image08.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image08.jpg" />
 
                             <div class="project-link">
                             
@@ -187,7 +187,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image09.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image09.jpg" />
 
                             <div class="project-link">
                             
@@ -199,7 +199,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image10.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image10.jpg" />
 
                             <div class="project-link">
                             
@@ -211,7 +211,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image11.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image11.jpg" />
 
                             <div class="project-link">
                             
@@ -223,7 +223,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image12.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image12.jpg" />
 
                             <div class="project-link">
                             
@@ -235,7 +235,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image13.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image13.jpg" />
 
                             <div class="project-link">
                             
@@ -247,7 +247,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image14.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image14.jpg" />
 
                             <div class="project-link">
                             
@@ -259,7 +259,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image15.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image15.jpg" />
 
                             <div class="project-link">
                             
@@ -271,7 +271,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image16.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image16.jpg" />
 
                             <div class="project-link">
                             
@@ -283,7 +283,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image17.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image17.jpg" />
 
                             <div class="project-link">
                             
@@ -295,7 +295,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image18.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image18.jpg" />
 
                             <div class="project-link">
                             
@@ -307,7 +307,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image19.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image19.jpg" />
 
                             <div class="project-link">
                             
@@ -319,7 +319,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image20.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image20.jpg" />
 
                             <div class="project-link">
                             
@@ -331,7 +331,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image21.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image21.jpg" />
 
                             <div class="project-link">
                             
@@ -343,7 +343,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image22.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image22.jpg" />
 
                             <div class="project-link">
                             
@@ -355,7 +355,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image23.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image23.jpg" />
 
                             <div class="project-link">
                             
@@ -367,7 +367,67 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image24.png" />
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image24.jpg" />
+
+                            <div class="project-link">
+                            
+                            </div>
+                        </div>    
+                    </a>
+                </div>
+
+                 <div class="col-lg-3 col-md-3 col-6">
+                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
+                        <div class="slideshow-image">
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image25.jpg" />
+
+                            <div class="project-link">
+                            
+                            </div>
+                        </div>    
+                    </a>
+                </div>
+
+                 <div class="col-lg-3 col-md-3 col-6">
+                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
+                        <div class="slideshow-image">
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image26.jpg" />
+
+                            <div class="project-link">
+                            
+                            </div>
+                        </div>    
+                    </a>
+                </div>
+
+                 <div class="col-lg-3 col-md-3 col-6">
+                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
+                        <div class="slideshow-image">
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image27.jpg" />
+
+                            <div class="project-link">
+                            
+                            </div>
+                        </div>    
+                    </a>
+                </div>
+
+                 <div class="col-lg-3 col-md-3 col-6">
+                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
+                        <div class="slideshow-image">
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image28.jpg" />
+
+                            <div class="project-link">
+                            
+                            </div>
+                        </div>    
+                    </a>
+                </div>
+
+                 <div class="col-lg-3 col-md-3 col-6">
+                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
+                        <div class="slideshow-image">
+                            <img class="slideshow-image" src="Images/Projects/JavaRPG/image29.jpg" />
 
                             <div class="project-link">
                             

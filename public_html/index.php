@@ -15,7 +15,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     
-  <link rel="stylesheet" href="index.css"  />
+  <link rel="stylesheet" href="CSS/index.css"  />
  
 </head>
 
@@ -220,7 +220,7 @@
                <div class="row">
 
                    <div class="col-lg-4 col-md-4 col-12 mb-4">
-                       <a class="project-link" href="#">
+                       <a class="project-link" href="http://localhost/MyPortfolio/public_html/ArcadeMachine.php">
                             <div class="project-image">
                                 <img class="project-image" src="Images/Projects/ArcadeMachine/image01.png" />
 
@@ -253,7 +253,7 @@
                    </div>
 
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
-                       <a class="project-link" href="#">
+                       <a class="project-link" href="http://localhost/MyPortfolio/public_html/ACMWebsite.php">
                             <div class="project-image">
                                 <img class="project-image" src="Images/Projects/ACMWebsite/image01.png" />
 
@@ -286,7 +286,7 @@
                    </div>
 
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
-                       <a class="project-link" href="#">
+                       <a class="project-link" href="http://localhost/MyPortfolio/public_html/WSCApp.php">
                             <div class="project-image">
                                 <img class="project-image" src="Images/Projects/WSCMobileApp/image01.jpg" />
 
@@ -319,7 +319,7 @@
                    </div>
 
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
-                       <a class="project-link" href="#">
+                       <a class="project-link" href="http://localhost/MyPortfolio/public_html/RestaurantWebsite.php">
                             <div class="project-image">
                                 <img class="project-image" src="Images/Projects/RestaurantWebsite/image01.png" />
 
@@ -352,7 +352,7 @@
                    </div>
 
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
-                       <a class="project-link" href="#">
+                       <a class="project-link" href="http://localhost/MyPortfolio/public_html/VRComputerBuilder.php">
                             <div class="project-image">
                                 <img class="project-image" src="Images/Projects/VRComputerBuilder/image01.png" />
 
@@ -385,14 +385,14 @@
                    </div>
 
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
-                       <a class="project-link" href="#">
+                       <a class="project-link" href="http://localhost/MyPortfolio/public_html/JavaRPG.php">
                             <div class="project-image">
                                 <img class="project-image" src="Images/Projects/JavaRPG/image02.jpg" />
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
                                         <div class="project-title">
-                                            Java RPG
+                                            Java Swing RPG
                                         </div>
                                     
                                         <div class="project-content">

@@ -62,12 +62,12 @@
 
     <div class="row justify-content-center">
         <div class="col-9 my-4 h1" style="color: #2D9CCA">
-            Home Made Arcade Machine
+            WSC Mobile App
         </div>
 
         <div class="col-12 mb-2">
             <div class="project-image-header">
-                <img class="project-image-header" src="Images/Projects/ArcadeMachine/header.png"/>
+                <img class="project-image-header" src="Images/Projects/WSCMobileApp/header.PNG"/>
             </div>
         </div>
 
@@ -91,7 +91,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image01.png" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image01.jpg" />
 
                             <div class="project-link">
                             
@@ -103,7 +103,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image02.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image02.jpg" />
 
                             <div class="project-link">
                             
@@ -115,7 +115,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image03.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image03.jpg" />
 
                             <div class="project-link">
                             
@@ -127,7 +127,7 @@
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image04.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image04.jpg" />
 
                             <div class="project-link">
                             
@@ -139,7 +139,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image05.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image05.jpg" />
 
                             <div class="project-link">
                             
@@ -151,7 +151,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image06.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image06.jpg" />
 
                             <div class="project-link">
                             
@@ -163,7 +163,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image07.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image07.jpg" />
 
                             <div class="project-link">
                             
@@ -175,7 +175,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image08.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image08.jpg" />
 
                             <div class="project-link">
                             
@@ -187,7 +187,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image09.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image09.jpg" />
 
                             <div class="project-link">
                             
@@ -199,7 +199,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image10.jpg" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image10.jpg" />
 
                             <div class="project-link">
                             
@@ -211,7 +211,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image11.png" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image11.jpg" />
 
                             <div class="project-link">
                             
@@ -223,7 +223,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image12.png" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image12.jpg" />
 
                             <div class="project-link">
                             
@@ -235,7 +235,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image13.png" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image13.jpg" />
 
                             <div class="project-link">
                             
@@ -247,7 +247,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image14.png" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image14.jpg" />
 
                             <div class="project-link">
                             
@@ -259,7 +259,7 @@
                  <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
                         <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image15.png" />
+                            <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image15.jpg" />
 
                             <div class="project-link">
                             
@@ -268,113 +268,7 @@
                     </a>
                 </div>
 
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image16.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image17.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image18.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image19.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image20.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image21.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image22.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image23.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
-
-                 <div class="col-lg-3 col-md-3 col-6">
-                    <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
-                            <img class="slideshow-image" src="Images/Projects/ArcadeMachine/image24.png" />
-
-                            <div class="project-link">
-                            
-                            </div>
-                        </div>    
-                    </a>
-                </div>
+                 
 
             
 
