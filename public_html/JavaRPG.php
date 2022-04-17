@@ -82,7 +82,7 @@
            </h5>
 
             <br />
-           <a class="my-1 github-link" href="https://github.com/brsmit1993/ACM_ArcadeMachineProject"><img src="Images/Icons/GitHub.svg"/> Github Link</a>
+           <a class="my-1 github-link" href="https://github.com/brsmit1993/JavaRPG"><img src="Images/Icons/GitHub.svg"/> Github Link</a>
             
         </div>
 
