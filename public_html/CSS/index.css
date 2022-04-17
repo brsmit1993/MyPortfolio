@@ -209,6 +209,14 @@ div.project-overlay {
             left: 24vw;
         }
 
+        img.project-icon-04 {
+            height: 6vw;
+            width: 6vw;
+            position: absolute;
+            bottom: 0;
+            left: 32vw;
+        }
+
 input {
     background-color: #0D3155;
     color: lightgray;
@@ -280,6 +288,7 @@ input {
 /*Image Carasousel*/
 /*Image Carasousel*/
 
+
   
 
 /*Dynamic Sizes*/
@@ -340,6 +349,14 @@ input {
             left: 24vw;
         }
 
+        img.project-icon-05 {
+            height: 6vw;
+            width: 6vw;
+            position: absolute;
+            bottom: 0;
+            left: 32vw;
+        }
+
     }
 
     @media (min-width: 768px) {
@@ -347,11 +364,11 @@ input {
             font-size: 2rem;
         }
         div.project-title {
-            font-size: 1.1rem;
+            font-size: 1rem;
         }
 
         div.project-content {
-            font-size: .8rem;
+            font-size: .7rem;
         }
 
         img.project-icon-01 {
@@ -384,6 +401,14 @@ input {
             position: absolute;
             bottom: 0;
             left: 12vw;
+        }
+
+        img.project-icon-05 {
+            height: 2vw;
+            width: 2vw;
+            position: absolute;
+            bottom: 0;
+            left: 16vw;
         }
     }
 
@@ -453,7 +478,47 @@ input {
             bottom: 0;
             left: 12vw;
         }
+
+        img.project-icon-05 {
+            height: 2vw;
+            width: 2vw;
+            position: absolute;
+            bottom: 0;
+            left: 16vw;
+        }
     }
+
+@media (min-width: 1200px) {
+
+
+    div.project-title {
+        font-size: 1.5rem;
+    }
+
+    div.project-content {
+        font-size: 1.3rem;
+    }
+}
+
+@media (min-width: 1400px) {
+  
+
+    div.project-title {
+        font-size: 1.5rem;
+    }
+
+    div.project-content {
+        font-size: 1.5rem;
+    }
+
+   
+}
+
+
+
+
+
+
 
 
 

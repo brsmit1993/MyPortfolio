@@ -74,17 +74,17 @@
         </div>
 
         <div class="col-9 my-5">
-           <p style="color:white">
+           <h5 style="color:white">
              I originally did this project for one of my practicum projects at WSC. This project was by far one of the more intesting projects I've had the chance to work on because although there are plenty of homemade
                arcade machines and tutorials related to that my goal was to make a custom arcade machine that was capable of running games made on unity with a functioning coin acceptor. To do this I had to plan out an overall
                build on a fairly small budget as well as use a variety of different tools to accomplish this. This project required me using Unity, C#, Arduino/C++, and a little bit of soldering as well. After everything was said
                and done I was able to make a fairly decent arcade machine with an older model mini Alienware PC that is more then capable of running low grade unity games.
-           </p>
-
-             <p style="color:white">
-                 On a seperate side note I chose to donate this project to the ACM club on WSC campus given I don't have much use for an arcade machine. Although I could have continued to tinker with it I felt it would be a 
+           </h5>
+            <br />
+             <h5 style="color:white">
+                 After finishing this project I chose to donate this project to the ACM club on WSC campus given I don't have much use for an arcade machine. Although I could have continued to tinker with it I felt it would be a 
                  fun project for future ACM members as well as a possible fund raising tool.
-            </p>
+            </h5>
             <br />
            <a class="my-1 github-link" href="https://github.com/brsmit1993/ACM_ArcadeMachineProject"><img src="Images/Icons/GitHub.svg"/> Github Link</a>
             

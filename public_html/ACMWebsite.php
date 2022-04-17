@@ -72,17 +72,13 @@
         </div>
 
        <div class="col-9 my-5">
-           <p style="color:white">
-             I originally did this project for one of my practicum projects at WSC. This project was by far one of the more intesting projects I've had the chance to work on because although there are plenty of homemade
-               arcade machines and tutorials related to that my goal was to make a custom arcade machine that was capable of running games made on unity with a functioning coin acceptor. To do this I had to plan out an overall
-               build on a fairly small budget as well as use a variety of different tools to accomplish this. This project required me using Unity, C#, Arduino/C++, and a little bit of soldering as well. After everything was said
-               and done I was able to make a fairly decent arcade machine with an older model mini Alienware PC that is more then capable of running low grade unity games.
-           </p>
+           <h5 style="color:white">
+                While part of the ACM club on campus at WSC I was part of the Web Committee for ACM and helped create a website for them using HTML, CSS, Bootstrap, JS, and a little PHP. While I did a
+                vast majority of the coding for thie website I also worked with one of our members who did the UI/UX and another member who helped with the content of the website. This was also one of
+               the first complete websites I've made. Up until this point I had worked on a variety of different projects but I had very little web development expierence until my last year at WSC.
+           </h5>
 
-             <p style="color:white">
-                 On a seperate side note I chose to donate this project to the ACM club on WSC campus given I don't have much use for an arcade machine. Although I could have continued to tinker with it I felt it would be a 
-                 fun project for future ACM members as well as a possible fund raising tool.
-            </p>
+
             <br />
            <a class="my-1 github-link" href="https://github.com/brsmit1993/ACM_ArcadeMachineProject"><img src="Images/Icons/GitHub.svg"/> Github Link</a>
             

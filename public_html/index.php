@@ -16,12 +16,17 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     
   <link rel="stylesheet" href="CSS/index.css"  />
- 
+ <script src="JS/Scroll.js" defer></script>
+
 </head>
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-dark">
+
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+     
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -30,15 +35,15 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item me-4">
-                    <a class="nav-link active" aria-current="page" href="#"><img class="nav-img" src="Images/Icons/House.svg" /> Home</a>
+                    <a class="nav-link links" aria-current="page" href="#" onclick="goHome(); return false;"><img class="nav-img" src="Images/Icons/House.svg" /> Home</a>
+                    </li>
+
+                    <li class="nav-item  me-4">
+                    <a class="nav-link links" href="#" onclick="goAboutMe(); return false;"><img class="nav-img" src="Images/Icons/AboutMe.svg" /> About Me</a>
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/AboutMe.svg" /> About Me</a>
-                    </li>
-
-                    <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/Portfolio.svg" /> Portfolio</a>
+                    <a class="nav-link links" href="#" onclick="goPortfolio(); return false;"><img class="nav-img" src="Images/Icons/Portfolio.svg" /> Portfolio</a>
                     </li>
 
                     <li class="nav-item me-4">
@@ -46,7 +51,7 @@
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/ContactMe.svg" /> Contact Me</a>
+                    <a class="nav-link links" href="#" onclick="goContactMe(); return false;"><img class="nav-img" src="Images/Icons/ContactMe.svg" /> Contact Me</a>
                     </li>
                 </ul>
 
@@ -60,7 +65,7 @@
     <hr />
      
 
-    <section class="showcase">
+    <section id ="HomeDiv" class="showcase section">
     
         <video
         src="Videos/BG-Video.mp4"
@@ -91,10 +96,10 @@
 
     </section>
 
-    <br />
+    <div style="height: 50vh;"></div>
 
-    <div class="row justify-content-center">
-        <div class="col-lg-4 col-10 my-3">
+    <div id="AboutMeDiv" class="row justify-content-center section">
+        <div  class="col-lg-4 col-10 my-3">
               <div class="container h-100">
                 <div class="row h-100 justify-content-center align-items-center">
                     <div class="col-12" >
@@ -116,18 +121,17 @@
                              While at WSC I've helped with a variety of different projects and events involving ACM, UPE, and the International Club. 
                              My hobbies include coding, traveling, camping, hiking, and researching technology. If you're intersted in checking out any of my work don't forget to check out my portfolio and github.
                          </p>
+                         <a href="#" onclick="window.open('http://localhost/myportfolio/public_html/Resume_BLS.pdf'); return false;" class="btn btn-primary py-2 px-3" style="background-color:#2D9CCA;"><h5>My Resume</h5></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
-    <br />
-
-    
+    <div style="height: 5vh;"></div>
 
     <div class="row justify-content-center" style="color:white">
-        <div class="col-10 h1 mb-4" style="color:#2D9CCA">My Skills</div>
+        <div class="col-10 h1 mb-4" style="color:#2D9CCA;">My Skills</div>
        
         <div class="col-md-5 col-10 mb-4">
             <h3>Java</h3>
@@ -214,7 +218,9 @@
         </div>
     </div>
 
-      <div class="row justify-content-center" style="color:white">
+    <div style="height: 50vh;"></div>
+
+      <div id="MyPortfolioDiv" class="row justify-content-center section" style="color:white">
         <div class="col-10 h1 mb-4" style="color:#2D9CCA">My Portfolio</div>
            <div class="col-10">
                <div class="row">
@@ -226,7 +232,7 @@
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
-                                        <div class="project-title">
+                                        <div class="project-title mb-1">
                                             Arcade Machine
                                         </div>
                                     
@@ -236,10 +242,10 @@
                                             </p>
                                         </div>
 
-                                        <img class ="project-icon-01 m-3" src="Images/Projects/Icons/Unity.svg"/>
-                                        <img class ="project-icon-02 m-3" src="Images/Projects/Icons/C-Sharp.svg"/>
-                                        <img class ="project-icon-03 m-3" src="Images/Projects/Icons/Arduino.svg"/>
-                                        <img class ="project-icon-04 m-3" src="Images/Projects/Icons/C++.svg"/>
+                                        <img class ="project-icon-01 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/unity.svg"/>
+                                        <img class ="project-icon-02 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/csharp.svg"/>
+                                        <img class ="project-icon-03 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/arduino.svg"/>
+                                        <img class ="project-icon-04 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/cplus.svg"/>
                                     </div>
                                 </div>
 
@@ -259,20 +265,21 @@
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
-                                        <div class="project-title">
+                                        <div class="project-title mb-1">
                                             ACM Website
                                         </div>
                                     
                                         <div class="project-content">
                                             <p>
-                                                This project involved everything from project planning to coding and even a little bit of soldering.
+                                                The Website I helped make with the ACM Web Committee.
                                             </p>
                                         </div>
 
-                                        <img class ="project-icon-01 m-3" src="Images/Projects/Icons/Unity.svg"/>
-                                        <img class ="project-icon-02 m-3" src="Images/Projects/Icons/C-Sharp.svg"/>
-                                        <img class ="project-icon-03 m-3" src="Images/Projects/Icons/Arduino.svg"/>
-                                        <img class ="project-icon-04 m-3" src="Images/Projects/Icons/C++.svg"/>
+                                        <img class ="project-icon-01 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/html.svg"/>
+                                        <img class ="project-icon-02 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/css.svg"/>
+                                        <img class ="project-icon-03 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/javascript.svg"/>
+                                        <img class ="project-icon-04 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/bootstrap.svg"/>
+                                        <img class ="project-icon-05 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/php.svg"/>
                                     </div>
                                 </div>
 
@@ -285,6 +292,7 @@
                         </a>
                    </div>
 
+
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
                        <a class="project-link" href="http://localhost/MyPortfolio/public_html/WSCApp.php">
                             <div class="project-image">
@@ -292,20 +300,18 @@
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
-                                        <div class="project-title">
+                                        <div class="project-title mb-1">
                                             WSC Mobile App
                                         </div>
                                     
                                         <div class="project-content">
                                             <p>
-                                                This project involved everything from project planning to coding and even a little bit of soldering.
+                                                The WSC Mobile Android App I created for one of my practicums.
                                             </p>
                                         </div>
 
-                                        <img class ="project-icon-01 m-3" src="Images/Projects/Icons/Unity.svg"/>
-                                        <img class ="project-icon-02 m-3" src="Images/Projects/Icons/C-Sharp.svg"/>
-                                        <img class ="project-icon-03 m-3" src="Images/Projects/Icons/Arduino.svg"/>
-                                        <img class ="project-icon-04 m-3" src="Images/Projects/Icons/C++.svg"/>
+                                        <img class ="project-icon-01 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/java.svg"/>
+                                        <img class ="project-icon-02 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/android.svg"/>
                                     </div>
                                 </div>
 
@@ -325,20 +331,21 @@
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
-                                        <div class="project-title">
+                                        <div class="project-title mb-1">
                                             Restaurant Website
                                         </div>
                                     
                                         <div class="project-content">
                                            <p>
-                                                This project involved everything from project planning to coding and even a little bit of soldering.
+                                               My independant senior project for Senior Seminar class.
                                             </p>
                                         </div>
 
-                                        <img class ="project-icon-01 m-3" src="Images/Projects/Icons/Unity.svg"/>
-                                        <img class ="project-icon-02 m-3" src="Images/Projects/Icons/C-Sharp.svg"/>
-                                        <img class ="project-icon-03 m-3" src="Images/Projects/Icons/Arduino.svg"/>
-                                        <img class ="project-icon-04 m-3" src="Images/Projects/Icons/C++.svg"/>
+                                        <img class ="project-icon-01 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/html.svg"/>
+                                        <img class ="project-icon-02 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/css.svg"/>
+                                        <img class ="project-icon-03 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/javascript.svg"/>
+                                        <img class ="project-icon-04 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/bootstrap.svg"/>
+                                        <img class ="project-icon-04 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/firebase.svg"/>
                                     </div>
                                 </div>
 
@@ -358,20 +365,19 @@
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
-                                        <div class="project-title">
+                                        <div class="project-title mb-1">
                                             VR Computer Builder
                                         </div>
                                     
                                         <div class="project-content">
                                             <p>
-                                                This project involved everything from project planning to coding and even a little bit of soldering.
+                                                 My group senior project for Senior Seminar class.
                                             </p>
                                         </div>
 
-                                        <img class ="project-icon-01 m-3" src="Images/Projects/Icons/Unity.svg"/>
-                                        <img class ="project-icon-02 m-3" src="Images/Projects/Icons/C-Sharp.svg"/>
-                                        <img class ="project-icon-03 m-3" src="Images/Projects/Icons/Arduino.svg"/>
-                                        <img class ="project-icon-04 m-3" src="Images/Projects/Icons/C++.svg"/>
+                                        <img class ="project-icon-01 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/unity.svg"/>
+                                        <img class ="project-icon-02 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/csharp.svg"/>
+
                                     </div>
                                 </div>
 
@@ -391,20 +397,18 @@
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
-                                        <div class="project-title">
+                                        <div class="project-title mb-1">
                                             Java Swing RPG
                                         </div>
                                     
                                         <div class="project-content">
                                             <p>
-                                                This project involved everything from project planning to coding and even a little bit of soldering.
+                                                My second semester freshman year final project for Prog Fund II 
                                             </p>
                                         </div>
 
-                                        <img class ="project-icon-01 m-3" src="Images/Projects/Icons/Unity.svg"/>
-                                        <img class ="project-icon-02 m-3" src="Images/Projects/Icons/C-Sharp.svg"/>
-                                        <img class ="project-icon-03 m-3" src="Images/Projects/Icons/Arduino.svg"/>
-                                        <img class ="project-icon-04 m-3" src="Images/Projects/Icons/C++.svg"/>
+                                        <img class ="project-icon-01 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/java.svg"/>
+                                        <img class ="project-icon-02 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/html.svg"/>
                                     </div>
                                 </div>
 
@@ -420,12 +424,13 @@
              </div>
           </div>
       </div>
-    <br />
+    
+    <div style="height: 50vh;"></div>
 
-    <div class="row justify-content-center">
+    <div  id="ContactMeDiv" class="row justify-content-center section">
         <div class="col-10 h1" style="color:#2D9CCA">Contact Me</div>
          
-         <div class="col-lg-4 col-10 my-3">
+         <div class="col-lg-4 col-10 my-3 ms-lg-0 ms-md-0 ms-4">
             <form>
                 <div class="row">
                     <div class="form-group col-md-6 mb-md-0 col-12 mb-4">
@@ -445,7 +450,7 @@
                     <input type="text" class="form-control" id="Message" placeholder="Message" style="height:200px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;">
                 </div>
                 <br />
-                <button type="submit" class="btn btn-primary py-3 px-5" style="background-color:#2D9CCA;"><h2>Submit</h2></button>
+                <button type="submit" class="btn btn-primary py-2 px-4" style="background-color:#2D9CCA;"><h5>Submit</h5></button>
             </form>
         </div>
 
@@ -455,16 +460,17 @@
                  <div class="col-lg-6 col-10">
                     <p style="color:white">Hi, thanks for checking out my website. If you’re interested in hiring me or just want to say hi feel free to use my contact form on the left, send me an e-mail at brsmit1993@outlook.com, or shoot me a message via my LinkedIn. </p>
                     <span>
-                     <a class="social me-3" href="#"><img src="Images/Icons/GitHub.svg" /></a>
-                     <a class="social me-3" href="#"><img src="Images/Icons/LinkedIn.svg" /></a>
-                     <a class="social" href="#"><img src="Images/Icons/Email.svg" /></a>
+                     <a class="social me-3" href="https://github.com/brsmit1993" style="display:inline"><img src="Images/Icons/GitHub.svg" /></a>
+                     <a class="social me-3" href="https://www.linkedin.com/in/brsmit1993/" style="display:inline"><img src="Images/Icons/LinkedIn.svg" /></a>
+                     <a class="social" href="mailto: brsmit1993@outlook.com" style="display:inline"><img src="Images/Icons/Email.svg" /></a>
                     </span>
                  </div>
              </div>
          </div>
     </div>
     
-    <br /><br /><br /><br />
+    
+    <div style="height: 50vh;"></div>
 </body>
 
 </html>

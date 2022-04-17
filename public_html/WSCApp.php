@@ -62,7 +62,7 @@
 
     <div class="row justify-content-center">
         <div class="col-9 my-4 h1" style="color: #2D9CCA">
-            WSC Mobile App
+            WSC Mobile App (Work In Progress)
         </div>
 
         <div class="col-12 mb-2">
@@ -72,17 +72,14 @@
         </div>
 
         <div class="col-9 my-5">
-           <p style="color:white">
-             I originally did this project for one of my practicum projects at WSC. This project was by far one of the more intesting projects I've had the chance to work on because although there are plenty of homemade
-               arcade machines and tutorials related to that my goal was to make a custom arcade machine that was capable of running games made on unity with a functioning coin acceptor. To do this I had to plan out an overall
-               build on a fairly small budget as well as use a variety of different tools to accomplish this. This project required me using Unity, C#, Arduino/C++, and a little bit of soldering as well. After everything was said
-               and done I was able to make a fairly decent arcade machine with an older model mini Alienware PC that is more then capable of running low grade unity games.
-           </p>
+           <h5 style="color:white">
+                This project is by far one of my favorite projects I've worked on in part because I love mobile development but also because I've always wished that WSC had a mobile app for
+               students so getting to create on was a-lot of fun. The app has a basic login screen, dorm rules, social events, campus events, help sheets, campus phone numbers, a link to the canvas app(classes),
+               campus news, and wsc sports news. The app is also set up to recongnized which dorm the student is from and display information based on this. It also has a nifty filter system for the campus events
+               page so you can pick and choose which events you'd like to see. The app was developed using Android Studio, Java, and XML.
+           </h5>
 
-             <p style="color:white">
-                 On a seperate side note I chose to donate this project to the ACM club on WSC campus given I don't have much use for an arcade machine. Although I could have continued to tinker with it I felt it would be a 
-                 fun project for future ACM members as well as a possible fund raising tool.
-            </p>
+            
             <br />
            <a class="my-1 github-link" href="https://github.com/brsmit1993/ACM_ArcadeMachineProject"><img src="Images/Icons/GitHub.svg"/> Github Link</a>
             
