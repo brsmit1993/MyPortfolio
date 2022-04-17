@@ -41,3 +41,13 @@ div.popup-overlay-container {
     -ms-transform: translate(-50%,-50%);
     padding-bottom: 1vw;
 }
+
+    .github-link {
+    color: gray;
+    font-weight: bold;
+    text-decoration: none;
+    }
+
+    .github-link:hover {
+        color: lightgray;
+    }

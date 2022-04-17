@@ -8,7 +8,7 @@
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
 
-    <title>Brand Smith - My Portfolio</title>
+    <title>Brand Smith - Homemade Arcade Machine</title>
 
     <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -32,7 +32,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item me-4">
-                    <a class="nav-link active" aria-current="page" href="#"><img class="nav-img" src="Images/Icons/House.svg" /> Home</a>
+                    <a class="nav-link" aria-current="page" href="#"><img class="nav-img" src="Images/Icons/House.svg" /> Home</a>
                     </li>
 
                     <li class="nav-item me-4">
@@ -40,7 +40,7 @@
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/Portfolio.svg" /> Portfolio</a>
+                    <a class="nav-link active" href="#"><img class="nav-img" src="Images/Icons/Portfolio.svg" /> Portfolio</a>
                     </li>
 
                     <li class="nav-item me-4">
@@ -52,9 +52,9 @@
                     </li>
                 </ul>
 
-                    <a class="my-1 mx-4 social" href="#"><img src="Images/Icons/GitHub.svg" /></a>
-                    <a class="my-1 mx-4 social" href="#"><img src="Images/Icons/LinkedIn.svg" /></a>
-                    <a class="my-1 mx-4 social" href="#"><img src="Images/Icons/Email.svg" /></a>
+                    <a class="my-1 mx-4 social" href="https://github.com/brsmit1993"><img src="Images/Icons/GitHub.svg" /></a>
+                    <a class="my-1 mx-4 social" href="https://www.linkedin.com/in/brsmit1993/"><img src="Images/Icons/LinkedIn.svg" /></a>
+                    <a class="my-1 mx-4 social" href="mailto: brsmit1993@outlook.com"><img src="Images/Icons/Email.svg" /></a>
                     
             </div>
         </div>
@@ -62,12 +62,14 @@
 
     <div class="row justify-content-center">
         <div class="col-9 my-4 h1" style="color: #2D9CCA">
-            Home Made Arcade Machine
+
+            
+            <span>Homeade Arcade Machine</span>
         </div>
 
         <div class="col-12 mb-2">
             <div class="project-image-header">
-                <img class="project-image-header" src="Images/Projects/ArcadeMachine/header.png"/>
+                <img class="project-image-header" src="Images/Projects/ArcadeMachine/header.PNG"/>
             </div>
         </div>
 
@@ -83,8 +85,11 @@
                  On a seperate side note I chose to donate this project to the ACM club on WSC campus given I don't have much use for an arcade machine. Although I could have continued to tinker with it I felt it would be a 
                  fun project for future ACM members as well as a possible fund raising tool.
             </p>
+            <br />
+           <a class="my-1 github-link" href="https://github.com/brsmit1993/ACM_ArcadeMachineProject"><img src="Images/Icons/GitHub.svg"/> Github Link</a>
+            
         </div>
-
+  
         <div class="col-10">
             <div class="row g-0">
             

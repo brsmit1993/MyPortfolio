@@ -50,9 +50,9 @@
                     </li>
                 </ul>
 
-                    <a class="my-1 mx-4 social" href="#"><img src="Images/Icons/GitHub.svg" /></a>
-                    <a class="my-1 mx-4 social" href="#"><img src="Images/Icons/LinkedIn.svg" /></a>
-                    <a class="my-1 mx-4 social" href="#"><img src="Images/Icons/Email.svg" /></a>
+                    <a class="my-1 mx-4 social" href="https://github.com/brsmit1993"><img src="Images/Icons/GitHub.svg" /></a>
+                    <a class="my-1 mx-4 social" href="https://www.linkedin.com/in/brsmit1993/"><img src="Images/Icons/LinkedIn.svg" /></a>
+                    <a class="my-1 mx-4 social" href="mailto: brsmit1993@outlook.com"><img src="Images/Icons/Email.svg" /></a>
                     
             </div>
         </div>
@@ -79,13 +79,13 @@
        
         <span class="social-mobile">
        
-            <a href="#" class="ms-4"><img src="Images/Icons/GitHub.svg" /></a>
+            <a href="https://github.com/brsmit1993" class="ms-4"><img src="Images/Icons/GitHub.svg" /></a>
         
         
-            <a href="#"><img src="Images/Icons/LinkedIn.svg" /></a>
+            <a href="https://www.linkedin.com/in/brsmit1993/"><img src="Images/Icons/LinkedIn.svg" /></a>
         
         
-            <a href="#" class="me-4"><img src="Images/Icons/LinkedIn.svg" /></a>
+            <a href="mailto: brsmit1993@outlook.com" class="me-4"><img src="Images/Icons/Email.svg" /></a>
         
         </span>
 
@@ -255,7 +255,7 @@
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
                        <a class="project-link" href="http://localhost/MyPortfolio/public_html/ACMWebsite.php">
                             <div class="project-image">
-                                <img class="project-image" src="Images/Projects/ACMWebsite/image01.png" />
+                                <img class="project-image" src="Images/Projects/ACMWebsite/image01.PNG" />
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
@@ -321,7 +321,7 @@
                     <div class="col-lg-4 col-md-4 col-12  mb-4">
                        <a class="project-link" href="http://localhost/MyPortfolio/public_html/RestaurantWebsite.php">
                             <div class="project-image">
-                                <img class="project-image" src="Images/Projects/RestaurantWebsite/image01.png" />
+                                <img class="project-image" src="Images/Projects/RestaurantWebsite/image01.PNG" />
 
                                  <div class="project-overlay">
                                     <div class="project-text-container">
@@ -463,6 +463,8 @@
              </div>
          </div>
     </div>
+    
+    <br /><br /><br /><br />
 </body>
 
 </html>
