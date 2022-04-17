@@ -31,24 +31,24 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto">
-                    <li class="nav-item me-4">
-                    <a class="nav-link" aria-current="page" href="#"><img class="nav-img" src="Images/Icons/House.svg" /> Home</a>
+                   <li class="nav-item me-4">
+                    <a class="nav-link" aria-current="page" href="http://brandonsmiththedeveloper.com/"><img class="nav-img" src="Images/Icons/House.svg" /> Home</a>
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/AboutMe.svg" /> About Me</a>
+                    <a class="nav-link" href="http://brandonsmiththedeveloper.com/"><img class="nav-img" src="Images/Icons/AboutMe.svg" /> About Me</a>
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link active" href="#"><img class="nav-img" src="Images/Icons/Portfolio.svg" /> Portfolio</a>
+                    <a class="nav-link active" href="http://brandonsmiththedeveloper.com/"><img class="nav-img" src="Images/Icons/Portfolio.svg" /> Portfolio</a>
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/Resume.svg" /> Resume</a>
+                    <a class="nav-link" href="#" onclick="window.open('http://brandonsmiththedeveloper.com/Resume_BLS.pdf'); return false;"><img class="nav-img" src="Images/Icons/Resume.svg" /> Resume</a>
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/ContactMe.svg" /> Contact Me</a>
+                    <a class="nav-link" href="http://brandonsmiththedeveloper.com/"><img class="nav-img" src="Images/Icons/ContactMe.svg" /> Contact Me</a>
                     </li>
                 </ul>
 

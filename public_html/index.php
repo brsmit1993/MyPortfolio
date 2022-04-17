@@ -47,7 +47,7 @@
                     </li>
 
                     <li class="nav-item me-4">
-                    <a class="nav-link" href="#"><img class="nav-img" src="Images/Icons/Resume.svg" /> Resume</a>
+                    <a class="nav-link" href="#" onclick="window.open('http://brandonsmiththedeveloper.com/Resume_BLS.pdf'); return false;"><img class="nav-img" src="Images/Icons/Resume.svg" /> Resume</a>
                     </li>
 
                     <li class="nav-item me-4">
@@ -121,7 +121,7 @@
                              While at WSC I've helped with a variety of different projects and events involving ACM, UPE, and the International Club. 
                              My hobbies include coding, traveling, camping, hiking, and researching technology. If you're intersted in checking out any of my work don't forget to check out my portfolio and github.
                          </p>
-                         <a href="#" onclick="window.open('http://localhost/myportfolio/public_html/Resume_BLS.pdf'); return false;" class="btn btn-primary py-2 px-3" style="background-color:#2D9CCA;"><h5>My Resume</h5></a>
+                         <a href="#" onclick="window.open('http://brandonsmiththedeveloper.com/Resume_BLS.pdf'); return false;" class="btn btn-primary py-2 px-3" style="background-color:#2D9CCA;"><h5>My Resume</h5></a>
                     </div>
                 </div>
             </div>
@@ -427,31 +427,51 @@
     
     <div style="height: 50vh;"></div>
 
+    <?php
+        if(isset($_POST['submit'])){
+            $to = "brsmit09@wsc.edu"; // this is your Email address
+            $from = $_POST['email']; // this is the sender's Email address
+            $name = $_POST['name'];
+            $subject = $_POST['subject'];
+            $subject2 = "Copy of your form submission to Brandon Smith";
+            $message = "Name: " . $name . "/n Phone: " . $phone . " /n wrote the following:" . "\n\n" . $_POST['message'];
+            $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['message'];
+            $headers = "From:" . $from;
+            $headers2 = "From:" . $to;
+            mail($to,$subject,$message,$headers);
+            mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+            echo "Mail Sent. Thank you " . $name . ", we will contact you shortly.";
+            // You can also use header('Location: thank_you.php'); to redirect to another page.
+        }
+    ?>
+
     <div  id="ContactMeDiv" class="row justify-content-center section">
         <div class="col-10 h1" style="color:#2D9CCA">Contact Me</div>
          
          <div class="col-lg-4 col-10 my-3 ms-lg-0 ms-md-0 ms-4">
-            <form>
-                <div class="row">
-                    <div class="form-group col-md-6 mb-md-0 col-12 mb-4">
-                        <input type="text" class="form-control" id="Name" placeholder="Name" style="height:50px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;">
-                    </div>
+             <form method="post">
+                 <div class="row">
+                     <div class="form-group col-md-6 mb-md-0 col-12 mb-4">
+                         <input type="text" class="form-control" id="name" name="name" placeholder="Name" style="height:50px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;" />
+                     </div>
 
-                    <div class="form-group col-md-6 col-12">
-                        <input type="email" class="form-control" id="Email" placeholder="Email" style="height:50px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;">
-                    </div>
-                </div>
-                <br />
-                <div class="form-group">
-                    <input type="text" class="form-control" id="Subject" placeholder="Subject" style="height:50px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;">
-                </div>
-                <br />
+                     <div class="form-group col-md-6 col-12">
+                         <input type="email" class="form-control" id="email" name="email" placeholder="Email" style="height:50px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;" />
+                     </div>
+                 </div>
+                 <br />
                  <div class="form-group">
-                    <input type="text" class="form-control" id="Message" placeholder="Message" style="height:200px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;">
-                </div>
-                <br />
-                <button type="submit" class="btn btn-primary py-2 px-4" style="background-color:#2D9CCA;"><h5>Submit</h5></button>
-            </form>
+                     <input type="text" class="form-control" id="subject" name="subject" placeholder="Subject" style="height:50px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;" />
+                 </div>
+                 <br />
+                 <div class="form-group">
+                     <input type="text" class="form-control" id="message" name="message" placeholder="Message" style="height:200px; background-color: #0D3155; color: lightgray; border-width:0px; border-radius:0px;" />
+                 </div>
+                 <br />
+                 <button type="submit" name="submit" value="Submit" class="btn btn-primary py-2 px-4" style="background-color:#2D9CCA;">
+                     <h5>Submit</h5>
+                 </button>
+             </form>
         </div>
 
          <div class="col-1"></div>
