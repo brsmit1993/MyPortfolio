@@ -345,7 +345,7 @@
                                         <img class ="project-icon-02 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/css.svg"/>
                                         <img class ="project-icon-03 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/javascript.svg"/>
                                         <img class ="project-icon-04 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/bootstrap.svg"/>
-                                        <img class ="project-icon-04 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/firebase.svg"/>
+                                        <img class ="project-icon-05 ms-3 me-3 mt-3 mb-2" src="Images/Projects/Icons/firebase.svg"/>
                                     </div>
                                 </div>
 
@@ -429,18 +429,17 @@
 
     <?php
         if(isset($_POST['submit'])){
-            $to = "brsmit09@wsc.edu"; // this is your Email address
+            $to = "brsmit1993@outlook.com"; // this is your Email address
             $from = $_POST['email']; // this is the sender's Email address
             $name = $_POST['name'];
             $subject = $_POST['subject'];
             $subject2 = "Copy of your form submission to Brandon Smith";
-            $message = "Name: " . $name . "/n Phone: " . $phone . " /n wrote the following:" . "\n\n" . $_POST['message'];
-            $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['message'];
+            $message = "Name: " . $name . "\n" . "From: " . $from . "\n\n" ."wrote the following:" . "\n\n" . $_POST['message'];
+            $message2 = "Your contact form submission was successful. Thank you " . $name . ", I will be in contact with you shortly." . "\n\n" . "Best Regards," . "\n\n" . "Brandon Smith" . "\n\nHere is a copy of your message " . $name . "\n\n" . $_POST['message'];
             $headers = "From:" . $from;
             $headers2 = "From:" . $to;
             mail($to,$subject,$message,$headers);
             mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
-            echo "Mail Sent. Thank you " . $name . ", we will contact you shortly.";
             // You can also use header('Location: thank_you.php'); to redirect to another page.
         }
     ?>
