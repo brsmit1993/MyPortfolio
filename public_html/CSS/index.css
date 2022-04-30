@@ -251,7 +251,7 @@ input {
             bottom: 0;
             right: 0;
             background: rgb(0, 0, 0); /* Fallback for older browsers without RGBA-support */
-            background: rgba(50, 50, 50, 0.5);
+            background: rgba(0, 0, 0, 0.8);
             color: rgba(255, 255, 255, 1.0);
             opacity: 1;
             transition: opacity 1s;

@@ -73,8 +73,9 @@
 
          <div class="col-9 my-5">
            <h5 style="color:white">
-             For my independant project for my senior seminar class at WSC I was tasked with making an online restraunt ordering system. The project required a working cart system, ticket system, order lookup system,
-               estimated times for orders, and a delivery system/takeout system. For the projcet I primarily used html, css, bootstrap 4, and Googles  noSQL database called firestore.
+           For my independent project for my senior seminar class at WSC, I was tasked with making an online restaurant ordering system. 
+               The project required a working cart system, ticket system, order lookup system, estimated times for orders, and a delivery system/takeout system.
+               For the project, I primarily used HTML, CSS, bootstrap 4, and Googles NoSQL database called Firestore.
            </h5>
 
             <br />

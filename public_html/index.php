@@ -117,9 +117,9 @@
                         </span>
                         <br /><br />
                          <p style="color:white;">
-                             Hi, I'm Brandon and I will be graduting Wayne State College in May 2022 with a degree in CIS: Programming Analysis. 
-                             While at WSC I've helped with a variety of different projects and events involving ACM, UPE, and the International Club. 
-                             My hobbies include coding, traveling, camping, hiking, and researching technology. If you're intersted in checking out any of my work don't forget to check out my portfolio and github.
+                             Hi, I'm Brandon and I will be graduating from Wayne State College in May 2022 with a degree in CIS: Programming Analysis. While at WSC I've helped with a variety of 
+                             different projects and events involving ACM, UPE, and the International Club. My hobbies include coding, traveling, camping, hiking, and researching technology. If 
+                             you're interested in checking out any of my work don't forget to check out my portfolio and GitHub.
                          </p>
                          <a href="#" onclick="window.open('http://brandonsmiththedeveloper.com/Resume_BLS.pdf'); return false;" class="btn btn-primary py-2 px-3" style="background-color:#2D9CCA;"><h5>My Resume</h5></a>
                     </div>

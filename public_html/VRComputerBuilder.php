@@ -73,9 +73,10 @@
 
          <div class="col-9 my-5">
            <h5 style="color:white">
-                This project was my group project for my senior seminar class at WSC. The goal was to create an educational programming about building computers using VR and Unity as well as an
-               external application using the language/framework of oru choice. For my part I did most of the game logic while my other group partners focused on the VR side, external app, and presentation
-               portion of the project. Overall the game functions extremely well and works exactly how we want it to with no major bugs or issues.
+                This project was my group project for my senior seminar class at WSC. The goal was to create an educational program about building 
+               computers using VR and Unity as well as an external application using the language/framework of your choice. For my part, I did most of 
+               the game logic while my other group partners focused on the VR side, external app, and presentation portion of the project. Overall the game 
+               functions extremely well and works exactly how we want it to with no major bugs or issues.
            </h5>
 
             

@@ -73,9 +73,10 @@
 
        <div class="col-9 my-5">
            <h5 style="color:white">
-                While part of the ACM club on campus at WSC I was part of the Web Committee for ACM and helped create a website for them using HTML, CSS, Bootstrap, JS, and a little PHP. While I did a
-                vast majority of the coding for thie website I also worked with one of our members who did the UI/UX and another member who helped with the content of the website. This was also one of
-               the first complete websites I've made. Up until this point I had worked on a variety of different projects but I had very little web development expierence until my last year at WSC.
+              While part of the ACM club on campus at WSC I was part of the Web Committee for ACM and helped create a website for them using HTML, CSS, Bootstrap, JS, and a 
+               little PHP. While I did a majority of the coding for this website I also worked with one of our members who did the UI/UX and another member who helped with the content of 
+               the website. This was also one of the first complete websites I've made. Up until this point I had worked on a variety of different projects but I had very little web development 
+               experience until my last year at WSC.
            </h5>
 
 

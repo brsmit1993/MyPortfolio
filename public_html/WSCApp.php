@@ -73,10 +73,10 @@
 
         <div class="col-9 my-5">
            <h5 style="color:white">
-                This project is by far one of my favorite projects I've worked on in part because I love mobile development but also because I've always wished that WSC had a mobile app for
-               students so getting to create on was a-lot of fun. The app has a basic login screen, dorm rules, social events, campus events, help sheets, campus phone numbers, a link to the canvas app(classes),
-               campus news, and wsc sports news. The app is also set up to recongnized which dorm the student is from and display information based on this. It also has a nifty filter system for the campus events
-               page so you can pick and choose which events you'd like to see. The app was developed using Android Studio, Java, and XML.
+               This project is by far one of my favorite projects I've worked on in part because I love mobile development but also because I've always wished that WSC had a mobile app for students so getting to create
+               one was a lot of fun. The app has a basic login screen, dorm rules, social events, campus events, help sheets, campus phone numbers, a link to the canvas app(classes), campus news, and WSC
+               sports news. The app is also set up to recognize which dorm the student is from and display information based on this. It also has a nifty filter system for the campus events page so you 
+               can pick and choose which events you'd like to see. The app was developed using Android Studio, Java, and XML.
            </h5>
 
             
@@ -102,7 +102,7 @@
 
                 <div class="col-lg-3 col-md-3 col-6">
                     <a class="project-link" href="#" onclick="overlayOn(this);return false;">
-                        <div class="slideshow-image">
+                        <div class="slideshow-image" >
                             <img class="slideshow-image" src="Images/Projects/WSCMobileApp/image02.jpg" />
 
                             <div class="project-link">

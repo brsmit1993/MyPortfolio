@@ -73,12 +73,15 @@
 
          <div class="col-9 my-5">
            <h5 style="color:white">
-                For my final project during my freshman year at WSC we were given the task of making a game. While the original task was to make a simple rock paper scissors game we were also given
-               the oportunity if we wanted to make any game we could really think of. I ended up making a small RPG game using Java Swing and HTML for the front end and Java for the backend. This
-               project was probably around the time I realized how much I loved programming because I went a bit overboard on this game. This game was capable of having as many players as you want, the map changed sizes
-               based on the amount of players, there was pvp, a level system, inventory system, coin shops, a boss fight, random events, and a probably a few other things I'm missing as well. Overall the project
-               ended up being close to 10,000 lines of code. With that being said I was also a freshman so it's very likely the code I wrote could have been a-lot better had I wrote it with the knowledge I had today.
-               That beign said I think that's what every developer would say about there past projects.
+               For my final project during my freshman year at WSC, we were given the task of making a game. 
+               While the original task was to make a simple rock paper scissors game we were also given the opportunity 
+               if we wanted to make any game we could think of. I ended up making a small RPG game using Java Swing and HTML 
+               for the front end and Java for the backend. This project was probably around the time I realized how much I loved 
+               programming because I went a bit overboard on this game. This game was capable of having as many players as you want, 
+               the map changed sizes based on the number of players, there was PVP, a level system, an inventory system, coin shops, 
+               a boss fight, random events, and a probably a few other things I'm missing as well. Overall the project ended up being close to 
+               10,000 lines of code. With that being said I was also a freshman so it's very likely the code I wrote could have been a lot better 
+               had I written it with the knowledge I had today. That being said I think that's what every developer would say about their past projects.
            </h5>
 
             <br />
