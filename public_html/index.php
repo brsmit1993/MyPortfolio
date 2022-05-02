@@ -160,6 +160,34 @@
                 <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
         </div>
+        
+         <div class="col-md-5 col-10 mb-4">
+            <h3>REST</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+
+         <div class="col-md-5 col-10 mb-4">
+            <h3>APIs</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+
+         <div class="col-md-5 col-10 mb-4">
+            <h3>Agile</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+
+         <div class="col-md-5 col-10 mb-4">
+            <h3>Scrum</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
 
          <div class="col-md-5 col-10 mb-4">
             <h3>JUnit</h3>
@@ -203,6 +231,48 @@
             </div>
         </div>
 
+        <div class="col-md-5 col-10 mb-4">
+            <h3>ServiceNow</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+
+        <div class="col-md-5 col-10 mb-4">
+            <h3>Desktop And Laptop Support</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+        
+        <div class="col-md-5 col-10 mb-4">
+            <h3>Windows XP, 8, 10</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+
+        <div class="col-md-5 col-10 mb-4">
+            <h3>Office 365</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+        
+        <div class="col-md-5 col-10 mb-4">
+            <h3>Communication</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+
+        <div class="col-md-5 col-10 mb-4">
+            <h3>Troubleshooting</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+        </div>
+        
          <div class="col-md-5 col-10 mb-4">
             <h3>Teamwork</h3>
             <div class="progress">
